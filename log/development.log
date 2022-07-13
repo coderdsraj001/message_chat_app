@@ -1610,3 +1610,255 @@ Processing by SessionsController#new as HTML
 Completed 200 OK in 41ms (Views: 38.6ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2022-07-13 12:32:49 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 41ms (Views: 38.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 12:56:12 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 43ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: semantic-ui.
+Load paths:
+  /home/deepak/ruby_older_vesion_app/message_me/app/assets/config
+  /home/deepak/ruby_older_vesion_app/message_me/app/assets/images
+  /home/deepak/ruby_older_vesion_app/message_me/app/assets/javascripts
+  /home/deepak/ruby_older_vesion_app/message_me/app/assets/stylesheets
+  /home/deepak/.rvm/gems/ruby-2.5.1/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/deepak/.rvm/gems/ruby-2.5.1/gems/actioncable-5.2.8.1/lib/assets/compiled
+  /home/deepak/.rvm/gems/ruby-2.5.1/gems/activestorage-5.2.8.1/app/assets/javascripts
+  /home/deepak/.rvm/gems/ruby-2.5.1/gems/actionview-5.2.8.1/lib/assets/compiled
+  /home/deepak/.rvm/gems/ruby-2.5.1/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /home/deepak/ruby_older_vesion_app/message_me/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/custom.css.scss:1
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb__1686914976093067126_70310764607340'
+Started GET "/" for 127.0.0.1 at 2022-07-13 12:56:20 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (3.0ms)
+Started GET "/" for 127.0.0.1 at 2022-07-13 12:56:22 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.9ms)
+Started GET "/" for 127.0.0.1 at 2022-07-13 12:57:21 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.7ms)
+Started GET "/" for 127.0.0.1 at 2022-07-13 12:57:25 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.9ms)
+Started GET "/" for 127.0.0.1 at 2022-07-13 12:58:13 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 47613ms (Views: 47610.0ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 52067ms (Views: 51645.7ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 111333ms (Views: 111168.9ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 114389ms (Views: 114374.9ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 1057ms (Views: 1054.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 12:59:53 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 181ms (Views: 178.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 13:02:37 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 160ms (Views: 157.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 13:05:37 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 199ms (Views: 196.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 13:05:38 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 246ms (Views: 242.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 13:12:29 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 165ms (Views: 162.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/login" for 127.0.0.1 at 2022-07-13 13:12:40 +0530
+Processing by SessionsController#new as HTML
+  Rendering sessions/new.html.erb within layouts/application
+  Rendered sessions/new.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 157ms (Views: 155.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 13:12:45 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 153ms (Views: 151.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 13:46:42 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 578ms (Views: 575.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 13:49:28 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.8ms)
+Started GET "/" for 127.0.0.1 at 2022-07-13 13:49:29 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 601ms (Views: 598.6ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 1641ms (Views: 1638.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 13:49:51 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 166ms (Views: 162.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 13:51:23 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 1297ms (Views: 1282.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 13:52:28 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 672ms (Views: 668.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 13:54:36 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 175ms (Views: 172.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 13:56:39 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 258ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Missing partial layputs/_navbar with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/deepak/ruby_older_vesion_app/message_me/app/views"
+  * "/home/deepak/.rvm/gems/ruby-2.5.1/gems/semantic-ui-sass-2.4.4.0/app/views"
+):
+    11: 
+    12:   <body>
+    13: 
+    14:     <%= render 'layputs/navbar' %>
+    15: 
+    16:     <div class="ui container">
+    17:       <%= yield %>
+  
+app/views/layouts/application.html.erb:14:in `_app_views_layouts_application_html_erb__2607387961680520039_46920978532060'
+Started GET "/" for 127.0.0.1 at 2022-07-13 13:56:40 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 177ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Missing partial layputs/_navbar with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/deepak/ruby_older_vesion_app/message_me/app/views"
+  * "/home/deepak/.rvm/gems/ruby-2.5.1/gems/semantic-ui-sass-2.4.4.0/app/views"
+):
+    11: 
+    12:   <body>
+    13: 
+    14:     <%= render 'layputs/navbar' %>
+    15: 
+    16:     <div class="ui container">
+    17:       <%= yield %>
+  
+app/views/layouts/application.html.erb:14:in `_app_views_layouts_application_html_erb__2607387961680520039_69963522910180'
+Started GET "/" for 127.0.0.1 at 2022-07-13 13:57:27 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_navbar.html.erb (0.7ms)
+Completed 200 OK in 199ms (Views: 196.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 14:00:04 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_navbar.html.erb (0.6ms)
+Completed 200 OK in 177ms (Views: 174.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 14:00:04 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_navbar.html.erb (0.7ms)
+Completed 200 OK in 200ms (Views: 196.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 14:00:04 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_navbar.html.erb (0.7ms)
+Completed 200 OK in 188ms (Views: 185.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-07-13 14:18:06 +0530
+Processing by ChatroomController#index as HTML
+  Rendering chatroom/index.html.erb within layouts/application
+  Rendered chatroom/index.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_navbar.html.erb (0.7ms)
+Completed 200 OK in 1071ms (Views: 1068.4ms | ActiveRecord: 0.0ms)
+
+
