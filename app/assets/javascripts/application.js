@@ -23,6 +23,12 @@ scroll_bottom = function() {
 	}
 }
 
+scroll_bottom = function() {
+	if ($('.content').length > 0) {
+		$('.content').scrollTop($('.content')[0].scrollHeight);
+	}
+}
+
 submit_message = function() {
 	$('#message_body').on('keydown', function(e) {
 		if (e.keyCode == 13) {
